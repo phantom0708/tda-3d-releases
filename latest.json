@@ -1,11 +1,11 @@
 {
+  "pub_date": "2026-10-08T10:26:45Z",
+  "version": "0.1.2",
+  "notes": "Đổi tên phần mềm thành easy3D.\r\nBổ sung logo và icon ứng dụng, bộ cài Windows/macOS.\r\nNhà phát hành tdasolutions; website https://tdasolutions.com.vn/.\r\nCố định service https://xuong3d-api.tdasolutions.com.vn: khách chỉ cần nhập token.\r\nBỏ chọn địa chỉ service và nhập tệp cấu hình.\r\nGiữ khả năng nâng cấp và vị trí dữ liệu của bản đã cài.\r\n",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDliNWF1NGVYbzgvVFJhMzNIdzZjYjV2Nmt5Y3gvbThjRW5tTFdmOFBXQUZET0ZmQzFqZXlnSWJqVTAwUXc3bzFNeEFWczdCUEFyYjlSQ0F4YkZJQUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDUyOTU5CWZpbGU6WMaw4bufbmcgM0QgU3R1ZGlvXzAuMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMQp5Q3Q1Y1JZZi9LcDBUYWU0d0R5ZEI5MDhOTTZqNkdlWmlpc21LTCtCN1N3dUdDUXlvdVZsK01heVRkaE1SQ3RuVjI0SHFsZUlCemdudTQ0ajU2UGZDUT09Cg==",
-      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.1/xuong3d-studio_0.1.1_x64-setup.exe"
+      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.2/easy3D_0.1.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDlrRVh0bGlSY0thTzM5SFZsczNHeW5odGEvbVhVWGpNWUJRSFU4WlhHVzR0dTNsK1g3TmtYYjgyQXo0WHlGbmhIVDVmYjJvZFhXaVVoTUZoTmJiTXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDU1MTk5CWZpbGU6ZWFzeTNEXzAuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMgozOHJkQThCczJLVm5WbFJaL09ySXBoWmloN0U3c1lOOWFjUm9iMWRPZTBpZUNtMGpLSmZuem5JZ2VGZE1NYjdId0cyY09BQmNiYm9LSjJKWVJKUm5DUT09Cg=="
     }
-  },
-  "version": "0.1.1",
-  "pub_date": "2026-10-08T09:49:24Z",
-  "notes": "Bổ sung cập nhật phần mềm trong Cài đặt.\r\nThông báo khi có phiên bản mới; tải và xác minh chữ ký trước khi cài.\r\nYêu cầu lưu công việc trước khi đóng ứng dụng để nâng cấp.\r\nGiữ nguyên định danh ứng dụng và vị trí dữ liệu dự án, cấu hình kết nối.\r\n"
+  }
 }
