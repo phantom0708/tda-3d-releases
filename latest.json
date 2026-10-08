@@ -1,0 +1,11 @@
+{
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDliNWF1NGVYbzgvVFJhMzNIdzZjYjV2Nmt5Y3gvbThjRW5tTFdmOFBXQUZET0ZmQzFqZXlnSWJqVTAwUXc3bzFNeEFWczdCUEFyYjlSQ0F4YkZJQUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDUyOTU5CWZpbGU6WMaw4bufbmcgM0QgU3R1ZGlvXzAuMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMQp5Q3Q1Y1JZZi9LcDBUYWU0d0R5ZEI5MDhOTTZqNkdlWmlpc21LTCtCN1N3dUdDUXlvdVZsK01heVRkaE1SQ3RuVjI0SHFsZUlCemdudTQ0ajU2UGZDUT09Cg==",
+      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.1/xuong3d-studio_0.1.1_x64-setup.exe"
+    }
+  },
+  "version": "0.1.1",
+  "pub_date": "2026-10-08T09:49:24Z",
+  "notes": "Bổ sung cập nhật phần mềm trong Cài đặt.\r\nThông báo khi có phiên bản mới; tải và xác minh chữ ký trước khi cài.\r\nYêu cầu lưu công việc trước khi đóng ứng dụng để nâng cấp.\r\nGiữ nguyên định danh ứng dụng và vị trí dữ liệu dự án, cấu hình kết nối.\r\n"
+}
