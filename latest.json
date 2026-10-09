@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-10-09T09:37:33Z",
-  "version": "0.1.3",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.3/easy3D_0.1.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDdCNG5rWVNqMW55V3ZDK0pGVVl0MzlodjdyWkJqUmt6L2JYUEpmZDY5ZENpSHlKcWw4eEw1WEZ3ZnFrTzc2cU15T0pzWHdablM5RkRoUXRwMGVDNGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTM4NjQ1CWZpbGU6ZWFzeTNEXzAuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMwpZRERlQkxscm5OYldqSHdPSklIM1RURThST0psS2licDBjVmlVQnRXRmhTalZzYWlxN2FTUm9RbVhrR3NhMmFScFFtbEpFV3VjdzN0VWhaN1JTRWZCdz09Cg=="
+      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.4/easy3D_0.1.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDZkWENORlBjaGp6eGZNUDMxTVgxUUxURHZVSHFSZUplSlBVT012eERjaVhuV2czOEtMTldyVW4ybzJYd0J5WXZseDZBbDgyUkgvTnlHbWJXMmtCdFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTYzNjYwCWZpbGU6ZWFzeTNEXzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNAplTDRid0ZOdTVqMU1YSTBYWEhFK2hVeDdkYklHQ3Y3VSt0L2dCZzg5b0FuUTY2RVlTU2tpUjVBQWQxZnE5SXExaFdUVEZmR0YvS2gzOE44c3BNclBDZz09Cg=="
     }
   },
-  "notes": "Giao diện làm việc thống nhất cho Maker, Studio chữ, Xưởng chữ, Keycap, Charm và Thời khóa biểu.\r\nTrang chủ dạng danh sách ứng dụng, Maker được đặt đầu danh sách; màu nền đồng bộ theo theme.\r\nThanh điều khiển 3D gọn hơn, bổ sung toàn màn hình; console theo theme và cuộn riêng.\r\nCấu hình được nhóm theo từng thành phần, tìm kiếm mở đúng nhóm, ô màu hiển thị màu đã chọn.\r\nTăng tốc xem trước trên máy, tái sử dụng hình học khi đổi màu; xuất file chạy riêng khỏi xem trước.\r\nCài đặt kết nối chỉ hiển thị token, che mặc định và hỗ trợ Hiện/Ẩn.\r\nGiữ dữ liệu thiết kế, cấu hình đã lưu và khóa cập nhật của phiên bản trước.\r\n"
+  "pub_date": "2026-10-09T16:34:28Z",
+  "notes": "# easy3D 0.1.4\r\n\r\n- Dựng mô hình trên máy Windows cho Studio ảnh, Studio chữ, Keycap, Charm và Thời khóa biểu; xuất file ở nền khi được yêu cầu.\r\n- Dùng font trên máy kết hợp thư viện font easy3D; xem mẫu chữ ngay trong danh sách chọn font.\r\n- Thanh chức năng dọc bên phải, cấu hình bên cạnh và tìm thông số trên các màn chỉnh sửa.\r\n- Cố định console để tránh thay đổi kích thước khung 3D khi sửa cấu hình.\r\n- Tách Báo giá in 3D, Tách nhãn PNG và Chuyển 3MF sang U1 thành ứng dụng riêng.\r\n- Bỏ Studio chữ nhanh cũ; đổi tên các màn và làm rõ nhãn cấu hình tiếng Việt.\r\n",
+  "version": "0.1.4"
 }
