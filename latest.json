@@ -1,11 +1,11 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.4/easy3D_0.1.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDZkWENORlBjaGp6eGZNUDMxTVgxUUxURHZVSHFSZUplSlBVT012eERjaVhuV2czOEtMTldyVW4ybzJYd0J5WXZseDZBbDgyUkgvTnlHbWJXMmtCdFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTYzNjYwCWZpbGU6ZWFzeTNEXzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNAplTDRid0ZOdTVqMU1YSTBYWEhFK2hVeDdkYklHQ3Y3VSt0L2dCZzg5b0FuUTY2RVlTU2tpUjVBQWQxZnE5SXExaFdUVEZmR0YvS2gzOE44c3BNclBDZz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTHdrVUZkVDBIMDVFYUxDOE1nWWl0eG5YN2F0Y2V2Ums4aE01cFlrMUZxSmlWTlV4aWx1MTRQZjFDcmd0RHlFZ2NrcXJ6eDRGZXZjODFwdHJvN09QUWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjMwNDgyCWZpbGU6ZWFzeTNEXzAuMS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNQowRlVoeTBTVGkzSnd0Q2UrMmRDc3lRVk9HVVNTdTBoVzFiL1l6NmRIUGptRzBCZXRYNHpiZmt6aE9oYVJmVnJBekYycHFBVnpYQyt1ZVRFMmFMMDlEQT09Cg==",
+      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.5/easy3D_0.1.5_x64-setup.exe"
     }
   },
-  "pub_date": "2026-10-09T16:34:28Z",
-  "notes": "# easy3D 0.1.4\r\n\r\n- Dựng mô hình trên máy Windows cho Studio ảnh, Studio chữ, Keycap, Charm và Thời khóa biểu; xuất file ở nền khi được yêu cầu.\r\n- Dùng font trên máy kết hợp thư viện font easy3D; xem mẫu chữ ngay trong danh sách chọn font.\r\n- Thanh chức năng dọc bên phải, cấu hình bên cạnh và tìm thông số trên các màn chỉnh sửa.\r\n- Cố định console để tránh thay đổi kích thước khung 3D khi sửa cấu hình.\r\n- Tách Báo giá in 3D, Tách nhãn PNG và Chuyển 3MF sang U1 thành ứng dụng riêng.\r\n- Bỏ Studio chữ nhanh cũ; đổi tên các màn và làm rõ nhãn cấu hình tiếng Việt.\r\n",
-  "version": "0.1.4"
+  "notes": "# easy3D 0.1.5\r\n\r\n- Tối ưu phản hồi khi thêm ảnh, nhập cấu hình và tải bản dựng; tăng tốc dữ liệu xem trước Thời khóa biểu.\r\n- Quay lại và tiến tới trên các màn thiết kế, gom các lần nhập liên tiếp thành một bước chỉnh sửa.\r\n- Kho mẫu hệ thống và mẫu cá nhân; tải riêng thư viện theo từng ứng dụng, lưu trên máy để sử dụng lại.\r\n- Đồng bộ ảnh minh họa với thiết kế và cập nhật mô hình khi chọn mẫu.\r\n- Hỗ trợ cấu hình riêng theo mẫu và cập nhật mẫu từ kho thư viện.\r\n- Bổ sung bàn in và cải thiện các thao tác xem 3D.\r\n",
+  "version": "0.1.5",
+  "pub_date": "2026-10-10T11:08:16Z"
 }
