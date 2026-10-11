@@ -1,6 +1,6 @@
-# easy3D — tdasolutions
+# Easy 3D — tdasolutions
 
-![easy3D](brand/easy3d-logo.png)
+![Easy 3D](brand/easy3d-logo.png)
 
 Phần mềm thiết kế và sản xuất 3D của **tdasolutions**.
 Website: https://tdasolutions.com.vn/.
@@ -11,6 +11,6 @@ Kho này chỉ chứa bộ cài, logo, chữ ký cập nhật và thông tin phi
 
 Tải bản Windows mới nhất tại một đường dẫn cố định:
 
-[**Tải easy3D cho Windows**](https://phantom0708.github.io/tda-3d-releases/releases/latest/easy3D-setup.exe)
+[**Tải Easy 3D cho Windows**](https://phantom0708.github.io/tda-3d-releases/releases/latest/easy3D-setup.exe)
 
 Đường tải này tự động được cập nhật sau mỗi lần phát hành public.
