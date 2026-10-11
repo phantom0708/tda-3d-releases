@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
+  "notes": "easy3D 0.1.7\r\n\r\n- Bổ sung 21 ứng dụng và 368 mẫu với cấu hình riêng, thư viện tải theo từng loại.\r\n- Đồng nhất thao tác thiết kế, mỗi ứng dụng có màu nhận diện riêng.\r\n- Cải thiện hiển thị các chi tiết ghép nối và ảnh đại diện mẫu.\r\n- Tìm kiếm ngân hàng trong cấu hình QR, bổ sung lựa chọn font và màu sắc.\r\n- Tạm ẩn Thời khóa biểu để tiếp tục hoàn thiện.\r\n",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.6/easy3D_0.1.6_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDk0cHFBRVNDQnBJTHp4UCtEejlLS1F3RmZYWUlyWlBSanEwR1oxbS9HQVlwRzZSV1ljTnRVMVgxd1FJOGdQWm9oc3VKSnYxalJ0TzJNK3BUYmRMYlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjg3NDU5CWZpbGU6ZWFzeTNEXzAuMS42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNgpoS3ltNEVyci80NFAwMEdqOHkwRjVTellUOWE4TG95aUMxQ2dyZzlRbVFGTjVhZCtucUlNSzFDNkczM1Q0eC9uYVhTRTdZbnFQODVjMWVJaFdXbkhBdz09Cg=="
+      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.7/easy3D_0.1.7_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTC9kYVZ5dVNtdnJ3aGJGZ3VXY1JkMHYxRVB0WW1ZTGpmMklrcjJpcXhZckpLSnJyMDlrZWd0VDBiNnlSZXkvWkF4bmdYaXIwTlR5WGJReklQNmh4UGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzI4MTY1CWZpbGU6ZWFzeTNEXzAuMS43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNwpKNlZFai93VUg5WTlHYk9DRytNMU9NNFcxcEVLRUt0RmZOSFVITDVid202S0Nld3dhMVRBbkpQQkJ2bk5TK2tnNGpoYkl2TGdjRUN6azNKdlN5QTJCQT09Cg=="
     }
   },
-  "pub_date": "2026-10-11T02:57:49Z",
-  "notes": "easy3D 0.1.6\r\n\r\n- Tự xếp các khối sang nhiều bàn in và xem tất cả bàn trên cùng giao diện 3D.\r\n- Điều chỉnh lề bàn theo kích thước mô hình.\r\n- Bổ sung hướng dẫn cho người mới, kiểm tra chữ và hồ sơ in.\r\n- Gắn khóa giấy phép production khi đóng gói bản phát hành.\r\n"
+  "pub_date": "2026-10-11T14:16:23Z"
 }
