@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "easy3D 0.1.7\r\n\r\n- Bổ sung 21 ứng dụng và 368 mẫu với cấu hình riêng, thư viện tải theo từng loại.\r\n- Đồng nhất thao tác thiết kế, mỗi ứng dụng có màu nhận diện riêng.\r\n- Cải thiện hiển thị các chi tiết ghép nối và ảnh đại diện mẫu.\r\n- Tìm kiếm ngân hàng trong cấu hình QR, bổ sung lựa chọn font và màu sắc.\r\n- Tạm ẩn Thời khóa biểu để tiếp tục hoàn thiện.\r\n",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.7/easy3D_0.1.7_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTC9kYVZ5dVNtdnJ3aGJGZ3VXY1JkMHYxRVB0WW1ZTGpmMklrcjJpcXhZckpLSnJyMDlrZWd0VDBiNnlSZXkvWkF4bmdYaXIwTlR5WGJReklQNmh4UGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzI4MTY1CWZpbGU6ZWFzeTNEXzAuMS43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNwpKNlZFai93VUg5WTlHYk9DRytNMU9NNFcxcEVLRUt0RmZOSFVITDVid202S0Nld3dhMVRBbkpQQkJ2bk5TK2tnNGpoYkl2TGdjRUN6azNKdlN5QTJCQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTHdoVmxzc0ZjR0RMcHllS0h1Snl1bEh1YllmRU9GSkJJYWJWYVVCb0RCNGk2MitLa2hwOG4xZDB2SHVCTXlLQXJSc3ZuaVVhZmpaelIxSTYzcE1Wa2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzMxNzYyCWZpbGU6ZWFzeTNEXzAuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMAprTWZTSDZ6ckNkYi9EWXJCdXk3TE8yc1pzS004ak1WMXRyTFI3T0R6YjJjOVFNRzRLWkliQkN0Mzk4dkhCWXJBbExveFpRdWduRnhHbnVianhJdm5Ddz09Cg==",
+      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.0/easy3D_0.1.0_x64-setup.exe"
     }
   },
-  "pub_date": "2026-10-11T14:16:23Z"
+  "notes": "# easy3D 0.1.0 — bản public khởi đầu\r\n\r\nĐặt lại số phiên bản public về 0.1.0, giữ bộ tính năng hiện tại thay vì dùng bộ cài 0.1.0 cũ.\r\n\r\n- Bản trải nghiệm hiện Studio ảnh, Studio chữ, Keycap và Cài đặt.\r\n- Danh sách ứng dụng, trạng thái đang cập nhật và mẫu được điều khiển từ server; giữ cấu hình gần nhất khi mất mạng.\r\n- Dựng trên máy, kho mẫu tải riêng, xem trước font, lịch sử chỉnh sửa và chuẩn bị nhiều bàn in.\r\n- Giữ các tối ưu hiển thị, màu sắc, QR ngân hàng và giao diện hiện tại.\r\n\r\nMáy đã cài 0.1.7 không tự cập nhật xuống 0.1.0; dùng bộ cài để cài lại. Dữ liệu người dùng không bị chủ động xóa.\r\n",
+  "version": "0.1.0",
+  "pub_date": "2026-10-11T15:16:18Z"
 }
