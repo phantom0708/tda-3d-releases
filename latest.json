@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "pub_date": "2026-10-12T08:55:26Z",
+  "version": "0.1.3",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.2/easy3D_0.1.2_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDBqVGhoek14SU9hTnQvUlNKMjVZamxoVGxocWJpeGIxTlEwY25Bd21zcWc5Zzg5bUxtVWVBelloWWo0KzBCcmRmOEx4SXJVQW8xME9aV2pTOHplUWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzk1MzEzCWZpbGU6RWFzeSAzRF8wLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIKa0NkNldpN1NLZUJXUG9rWnREcXhTMFhvQlp1SzdzWGJHb29zYUY4YXl3TDNnbkQvWVdHMFk0aWJxdllDbWdKYVZKSnl4R2dGMlV6eER4elk3Wm12QlE9PQo="
+      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.3/easy3D_0.1.3_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDhOZzZwekxiajlIOXhhWkRhZFduVVhxZGtnZjdJZURJTjFmR2hsOWNJeFhadzg3N2lWRGgybXJHcjhuTkFwSEdaNjdWY0NabHJBL1RudUxScWJ5MkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODIzMTkwCWZpbGU6RWFzeSAzRF8wLjEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMKWWdLZDlSNzZ1ZlJ1UXRIdkxtOHVLOHpNeFJmMGgwQ3Y2SDN3SDZUaWE0UElnWHhOUnFLZnU4YmNLcUV4YTJBZnRWY2FNcDJNN28wYmNkZzc3RUlyQUE9PQo="
     }
   },
-  "notes": "Easy 3D 0.1.2\r\n\r\n- Sửa cấu trúc XML khi xuất 3MF để Bambu Studio đọc được cấu hình chi tiết.\r\n- Thêm lựa chọn máy in và đường kính đầu in khi xuất 3MF/STL.\r\n- Giữ màu từng chi tiết khi xuất 3MF; STL đi kèm gói cấu hình máy in.\r\n- Bỏ nút xuất SCAD và đổi tên Clicker MX thành Cliecker.\r\n\r\nSau khi mở file trong Bambu Studio hoặc OrcaSlicer, kiểm tra vật liệu rồi cắt lớp trước khi gửi tới máy in.\r\n"
+  "notes": "Easy 3D 0.1.3\r\n\r\nSửa nhập lại SVG và hiển thị hình trang trí, bổ sung chỉnh vị trí.\r\nSửa cấu hình Studio ảnh, Studio chữ, Keycap và Charm; thêm reset về mặc định.\r\nSửa lỗi mở 3MF nhiều màu trong Bambu Studio.\r\nXuất đúng bố trí và số bàn in; STL nhiều bàn được tách thành ZIP.\r\nBổ sung chọn máy và tự cập nhật kích thước bàn; tránh vùng cấm của Bambu X1/P1.\r\nConsole giữ nhật ký thay đổi, trạng thái và lỗi, bỏ thông tin revision.\r\nGiữ nguyên thiết kế, token và dữ liệu người dùng khi cập nhật.\r\n",
+  "pub_date": "2026-10-12T16:40:13Z"
 }
