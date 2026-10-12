@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-10-12T02:32:50Z",
+  "version": "0.1.2",
+  "pub_date": "2026-10-12T08:55:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDFqSFdWR3hjd2FsL1dHaURzWGRRUVVKYjFublEyWkRyNDhvbGxaQS9hUEdrMHNMVkhSTWE3eUt2MDJBRG50ZWZ2OXgrTEhqSy9YVkRWQk9lWXFRdFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzcyMzYxCWZpbGU6RWFzeSAzRF8wLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEKcUJzblJ6Q1lkS0ppUnhvOHhiTG9yQVA5bXkvUUVIMFNOZ1JHYlFsOXFMTWVuTnNjcXBkRXUwNzBMUUZBZEkvNEUva1BZV05OMGdyRDc3aUh6eVAxQUE9PQo=",
-      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.1/easy3D_0.1.1_x64-setup.exe"
+      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.2/easy3D_0.1.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDBqVGhoek14SU9hTnQvUlNKMjVZamxoVGxocWJpeGIxTlEwY25Bd21zcWc5Zzg5bUxtVWVBelloWWo0KzBCcmRmOEx4SXJVQW8xME9aV2pTOHplUWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzk1MzEzCWZpbGU6RWFzeSAzRF8wLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIKa0NkNldpN1NLZUJXUG9rWnREcXhTMFhvQlp1SzdzWGJHb29zYUY4YXl3TDNnbkQvWVdHMFk0aWJxdllDbWdKYVZKSnl4R2dGMlV6eER4elk3Wm12QlE9PQo="
     }
   },
-  "version": "0.1.1",
-  "notes": "# Easy 3D 0.1.1\r\n\r\n- Sửa xuất 3MF mất màu trong Bambu Studio: thêm bảng màu sợi in và gán đúng màu cho từng chi tiết.\r\n- Giữ màu khi xuất ZIP hàng loạt; giữ cấu hình máy in của các file Bambu đã có sẵn.\r\n- Giữ đúng màu cho khối rời, mẫu ghép, Keycap và Studio chữ.\r\n- Rà soát STL, SVG, SCAD, PNG và ZIP: giữ dữ liệu, kích thước và tên file tiếng Việt.\r\n\r\nGiữ nguyên tên Easy 3D, cấu hình trải nghiệm và dữ liệu thiết kế của người dùng. Khách đang dùng bản 0.1.0 có thể cập nhật trong Cài đặt hoặc dùng đường tải cố định.\r\n"
+  "notes": "Easy 3D 0.1.2\r\n\r\n- Sửa cấu trúc XML khi xuất 3MF để Bambu Studio đọc được cấu hình chi tiết.\r\n- Thêm lựa chọn máy in và đường kính đầu in khi xuất 3MF/STL.\r\n- Giữ màu từng chi tiết khi xuất 3MF; STL đi kèm gói cấu hình máy in.\r\n- Bỏ nút xuất SCAD và đổi tên Clicker MX thành Cliecker.\r\n\r\nSau khi mở file trong Bambu Studio hoặc OrcaSlicer, kiểm tra vật liệu rồi cắt lớp trước khi gửi tới máy in.\r\n"
 }
