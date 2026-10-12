@@ -1,11 +1,11 @@
 {
-  "notes": "# easy3D 0.1.0 — bản public khởi đầu\r\n\r\nĐặt lại số phiên bản public về 0.1.0, giữ bộ tính năng hiện tại thay vì dùng bộ cài 0.1.0 cũ.\r\n\r\n- Bản trải nghiệm hiện Studio ảnh, Studio chữ, Keycap và Cài đặt.\r\n- Danh sách ứng dụng, trạng thái đang cập nhật và mẫu được điều khiển từ server; giữ cấu hình gần nhất khi mất mạng.\r\n- Dựng trên máy, kho mẫu tải riêng, xem trước font, lịch sử chỉnh sửa và chuẩn bị nhiều bàn in.\r\n- Giữ các tối ưu hiển thị, màu sắc, QR ngân hàng và giao diện hiện tại.\r\n\r\nMáy đã cài 0.1.7 không tự cập nhật xuống 0.1.0; dùng bộ cài để cài lại. Dữ liệu người dùng không bị chủ động xóa.\r\n",
-  "pub_date": "2026-10-11T16:17:58Z",
-  "version": "0.1.0",
+  "pub_date": "2026-10-12T02:32:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTHljK3AyMlNBTi8wQWdZNjR6VWtMeDFyT1IyOWYvM3l1QjVTanUzb1BxcGZtek1YRjllZmFnc3dvclphcldtVWkzRENCeEZjQTl1RzFLU3EyVUpCdVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzM1NDY1CWZpbGU6RWFzeSAzRF8wLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKalZwUUdsY2w0OXk4b1pPV2lXMGV1Tzg1UnZ2QmtqWm41VGZKZUlFYXdCTnFZL1BKZCtCUHJsQVh4U2xLbEV5UExEdUU0YmlpbnE0Q1oraTFSR0luQ3c9PQo=",
-      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.0/easy3D_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDFqSFdWR3hjd2FsL1dHaURzWGRRUVVKYjFublEyWkRyNDhvbGxaQS9hUEdrMHNMVkhSTWE3eUt2MDJBRG50ZWZ2OXgrTEhqSy9YVkRWQk9lWXFRdFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzcyMzYxCWZpbGU6RWFzeSAzRF8wLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEKcUJzblJ6Q1lkS0ppUnhvOHhiTG9yQVA5bXkvUUVIMFNOZ1JHYlFsOXFMTWVuTnNjcXBkRXUwNzBMUUZBZEkvNEUva1BZV05OMGdyRDc3aUh6eVAxQUE9PQo=",
+      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.1/easy3D_0.1.1_x64-setup.exe"
     }
-  }
+  },
+  "version": "0.1.1",
+  "notes": "# Easy 3D 0.1.1\r\n\r\n- Sửa xuất 3MF mất màu trong Bambu Studio: thêm bảng màu sợi in và gán đúng màu cho từng chi tiết.\r\n- Giữ màu khi xuất ZIP hàng loạt; giữ cấu hình máy in của các file Bambu đã có sẵn.\r\n- Giữ đúng màu cho khối rời, mẫu ghép, Keycap và Studio chữ.\r\n- Rà soát STL, SVG, SCAD, PNG và ZIP: giữ dữ liệu, kích thước và tên file tiếng Việt.\r\n\r\nGiữ nguyên tên Easy 3D, cấu hình trải nghiệm và dữ liệu thiết kế của người dùng. Khách đang dùng bản 0.1.0 có thể cập nhật trong Cài đặt hoặc dùng đường tải cố định.\r\n"
 }
