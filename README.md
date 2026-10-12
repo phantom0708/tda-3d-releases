@@ -14,3 +14,9 @@ Tải bản Windows mới nhất tại một đường dẫn cố định:
 [**Tải Easy 3D cho Windows**](https://phantom0708.github.io/tda-3d-releases/releases/latest/easy3D-setup.exe)
 
 Đường tải này tự động được cập nhật sau mỗi lần phát hành public.
+
+Tải bản Mac mới nhất (Universal, dùng cho Apple Silicon và Intel):
+
+[**Tải Easy 3D cho MacBook**](https://phantom0708.github.io/tda-3d-releases/releases/latest/easy3D-mac.dmg)
+
+Yêu cầu macOS 14 trở lên. Mở DMG rồi kéo **Easy 3D** vào **Applications**. Bản hiện tại chưa có Apple Developer ID/notarization; macOS có thể yêu cầu cho phép mở lần đầu trong Quyền riêng tư & Bảo mật.

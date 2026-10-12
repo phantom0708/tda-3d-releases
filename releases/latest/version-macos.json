@@ -1,0 +1,7 @@
+{
+  "version": "0.1.1",
+  "architecture": "universal",
+  "minimum_macos": "14.0",
+  "installer": "https://phantom0708.github.io/tda-3d-releases/releases/macos/0.1.1/easy3D_0.1.1_universal.dmg",
+  "sha256": "c1cfef4c600189194d70ad885b061ee3df9a882b4fd59d744f2ea5047a25e400"
+}
