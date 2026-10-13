@@ -1,0 +1,2 @@
+acd41b8db8c07e13502324a7b13db9d5edfd5783672329e41bd40a0e9cfcceae  easy3D_0.1.3_universal.dmg
+3f36d5c200d297c1a0fd8e7f6e016c0ab2f5b5e7a53f9ebc9ee3a9fbe2281112  easy3D_0.1.3_universal.app.tar.gz

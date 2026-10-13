@@ -1,15 +1,15 @@
 {
-  "version": "0.1.1",
-  "pub_date": "2026-10-12T03:20:09.735806Z",
-  "notes": "Easy 3D cho MacBook Apple Silicon và Intel. Sửa màu xuất 3MF, giữ màu từng chi tiết khi mở bằng Bambu Studio. Yêu cầu macOS 14 trở lên.",
+  "version": "0.1.3",
+  "notes": "Easy 3D 0.1.3\n\nSửa nhập lại SVG và hiển thị hình trang trí, bổ sung chỉnh vị trí.\nSửa cấu hình Studio ảnh, Studio chữ, Keycap và Charm; thêm reset về mặc định.\nSửa lỗi mở 3MF nhiều màu trong Bambu Studio.\nXuất đúng bố trí và số bàn in; STL nhiều bàn được tách thành ZIP.\nBổ sung chọn máy và tự cập nhật kích thước bàn; tránh vùng cấm của Bambu X1/P1.\nConsole giữ nhật ký thay đổi, trạng thái và lỗi, bỏ thông tin revision.\nGiữ nguyên thiết kế, token và dữ liệu người dùng khi cập nhật.\n",
+  "pub_date": "2026-10-13T02:48:04.513398Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTHhqMnJic05iSGZSLzJiczhmTFBkd29MbGVCckJmbFplT2tGOU1ScjNZOUlza0N6NUZldmpIRUJEb2xQeXVianRZb0V4MkY5UUVaRkV0M3JrZ1BqT2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzc1MTk1CWZpbGU6ZWFzeTNEXzAuMS4xX3VuaXZlcnNhbC5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEKUXZVbG15dVQwbkVCTzg4RU9MRVhiQnJpenFiUy9ka282NElSYWhjMmY4U0VNR1RyR3dTNVdiYm1xMjlncmtoWnRwUEdZSUZBeTdSZzVvSVB3TFdlRGc9PQo=",
-      "url": "https://phantom0708.github.io/tda-3d-releases/releases/macos/0.1.1/easy3D_0.1.1_universal.app.tar.gz"
+      "url": "https://phantom0708.github.io/tda-3d-releases/releases/macos/0.1.3/easy3D_0.1.3_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDRKT3VVRWhqczFHRFp6ZTA3aFdmM0ozd1BOZWFQVDlUcG5UY2Q2L2o0cTZvVEdjTDduc1FPcGFTL0RGVlR1a0VHNXRWTjVVeStoRUpPRXJxVW5MTndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODU5MzM1CWZpbGU6ZWFzeTNEXzAuMS4zX3VuaXZlcnNhbC5hcHAudGFyLmd6CXZlcnNpb246MC4xLjMKMG1GV2ZUcnRUN2FXQjBHV1VPTm1WQVFNVHFzSjJQUDk5RDJsbCtzSlgrVm5yT0xGYit3WkRwempJSEZpc0s3Z1k0NGJpVVNyVDhRU2RDNGY0ZGYrQ0E9PQo="
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTHhqMnJic05iSGZSLzJiczhmTFBkd29MbGVCckJmbFplT2tGOU1ScjNZOUlza0N6NUZldmpIRUJEb2xQeXVianRZb0V4MkY5UUVaRkV0M3JrZ1BqT2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzc1MTk1CWZpbGU6ZWFzeTNEXzAuMS4xX3VuaXZlcnNhbC5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEKUXZVbG15dVQwbkVCTzg4RU9MRVhiQnJpenFiUy9ka282NElSYWhjMmY4U0VNR1RyR3dTNVdiYm1xMjlncmtoWnRwUEdZSUZBeTdSZzVvSVB3TFdlRGc9PQo=",
-      "url": "https://phantom0708.github.io/tda-3d-releases/releases/macos/0.1.1/easy3D_0.1.1_universal.app.tar.gz"
+      "url": "https://phantom0708.github.io/tda-3d-releases/releases/macos/0.1.3/easy3D_0.1.3_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDRKT3VVRWhqczFHRFp6ZTA3aFdmM0ozd1BOZWFQVDlUcG5UY2Q2L2o0cTZvVEdjTDduc1FPcGFTL0RGVlR1a0VHNXRWTjVVeStoRUpPRXJxVW5MTndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODU5MzM1CWZpbGU6ZWFzeTNEXzAuMS4zX3VuaXZlcnNhbC5hcHAudGFyLmd6CXZlcnNpb246MC4xLjMKMG1GV2ZUcnRUN2FXQjBHV1VPTm1WQVFNVHFzSjJQUDk5RDJsbCtzSlgrVm5yT0xGYit3WkRwempJSEZpc0s3Z1k0NGJpVVNyVDhRU2RDNGY0ZGYrQ0E9PQo="
     }
   }
 }
