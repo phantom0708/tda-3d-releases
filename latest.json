@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "# Easy 3D 0.1.4\n\n- Tách bước sửa ảnh 2D và dựng mô hình 3D trong Studio ảnh; chỉ dựng mô hình khi chuyển sang 3D.\n- Bổ sung công cụ sửa ảnh, phóng to, di chuyển, phím tắt và loading trong các ứng dụng.\n- Cấu hình theo nhóm có màu, biểu tượng, thanh kéo và ô nhập chính xác; cảnh báo dẫn tới thông số cần sửa.\n- Đồng bộ cấu hình màu/đầu đùn và preset đầu in; sửa lỗi Bambu Studio từ chối mở dự án 3MF.\n- Sửa việc đóng gói hình học 3MF để phần mềm in đọc được mô hình chính và giữ dữ liệu màu.\n- Sửa tài nguyên font 3D và khôi phục hiển thị mô hình.\n\nWindows x64 và macOS Universal (Apple Silicon/Intel, macOS 14 trở lên).\n",
-  "pub_date": "2026-10-14T03:32:04.162Z",
+  "notes": "# Easy 3D 0.1.5\r\n\r\n- Mở đầy đủ 13 công cụ trong danh mục chính (Maker các chế độ, Móc khoá, Keycap, Charm, Thời khoá biểu, Báo giá, Chuyển U1, Tách nhãn).\r\n- Hoàn thiện studio Thời khoá biểu 4 tab với tìm kiếm thông số, ngàm LEGO/Snap, quản lý thẻ môn học và nhận nhãn dán 3D từ Maker.\r\n- Bổ sung hơn 100 mẫu thiết kế Móc khoá, xuất mã OpenSCAD (MakerWorld) và xuất ZIP STL tách lớp/đổi màu theo độ cao.\r\n- Bổ sung bộ ký tự hàng loạt, tải biểu tượng SVG, căn chỉnh và tự thu nhỏ chữ tiếng Việt cho Keycap & Charm; thêm chế độ xem xuyên thấu X-Ray.\r\n- Cải thiện chỉnh sửa vùng ảnh 2D trong Maker, thanh công cụ góc nhìn 3D (Iso/Top/Front/Right, Orthographic, Lật mặt), phím tắt toàn cục và lưu phiên làm việc tự động.\r\n- Bổ sung tự hoàn thành ngân hàng VietQR trong công cụ Báo giá in 3D.\r\n\r\nWindows x64 và macOS Universal (Apple Silicon/Intel, macOS 14 trở lên).\r\n",
+  "version": "0.1.5",
+  "pub_date": "2026-10-15T04:33:05Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.4/easy3D_0.1.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDdBbXdIbkFsamFra3VlbDAvU05EMkM4UzU2VHMvajZNR0tBNXZkdG5nbk55UzhEQXdnWjBhcmk0aG81eVJ3RFNrSnJncXFheWJuVngrZ1dYTit3b2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTQ3OTk1CWZpbGU6RWFzeSAzRF8wLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQKRE5qcktUb1lVL1dLdFBnNG51Wm9pQmVqdDhPMFgyK3RqZENqei9wVTdrU2hIeVFBZGFyYjhJL3NSd2FWUGwvN1BzbGg0b3JzRTNiNEdCSU1rdEJZQVE9PQo="
+      "url": "https://phantom0708.github.io/tda-3d-releases/releases/0.1.5/easy3D_0.1.5_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFE4a0x1R2NKTDZGWDVTNmZZT1E0VlBpcEUwMDM3TjE2VjBBWG5yY01wcUlzYVA4dGVyNWhmVm5yNndOOHJrQ0tjcUJSRDhHZ0ttWkJraVd3TlNhNWZXZDR4V0luM1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDM4NzM5CWZpbGU6RWFzeSAzRF8wLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUKMWpoQlo5amV1OVVFWmZseEplNXhUb2tJZ2RaRXEvZ3JQTUJGT2tQaGhWM2tySHFpV28wZzZZQ1RSZmJTNDVsdEw1ckNzUERzUGcvaGVmUjRxMUlTQ0E9PQo="
     }
   }
 }
